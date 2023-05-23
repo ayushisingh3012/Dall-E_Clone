@@ -1,9 +1,9 @@
 import Card from "./Card";
-import Formfield from "./Formfield";
+import FormField from "./FormField";
 import Loader from "./Loader";
 
 export {
     Card,
-    Formfield,
+    FormField,
     Loader
 }
